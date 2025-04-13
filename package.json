@@ -1,0 +1,21 @@
+{
+  "name": "koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/router": "^13.1.0",
+    "@langchain/community": "^0.3.37",
+    "koa": "^2.16.0",
+    "koa-bodyparser": "^4.4.1",
+    "koa2-cors": "^2.0.6",
+    "langchain": "^0.3.19",
+    "nodemon": "^3.1.9"
+  }
+}
